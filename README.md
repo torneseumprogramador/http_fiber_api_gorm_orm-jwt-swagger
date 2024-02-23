@@ -66,6 +66,10 @@ A documentação do projeto pode ser encontrada na pasta `docs`, incluindo as es
 
 Sinta-se à vontade para contribuir com este projeto. Se encontrar algum problema ou tiver sugestões, por favor, abra uma *issue* ou envie um *pull request*.
 
+## Comunidade
+
+Este projeto é uma iniciativa da comunidade "Torne-se um Programador". Junte-se a nós para aprender e colaborar em mais projetos emocionantes. Visite [torneseumprogramador.com.br](https://www.torneseumprogramador.com.br) para mais informações e confira o curso [Desafio Go Lang](https://www.torneseumprogramador.com.br/cursos/desafio_go_lang).
+
 ## Licença
 
 Este projeto está licenciado sob a licença [MIT](https://opensource.org/licenses/MIT).
