@@ -1,6 +1,10 @@
 ## Descrição
 Este é um aplicativo desenvolvido em Go (Golang) utilizando o framework Fiber, o ORM GORM, JWT para autenticação e Swagger para documentação da API. Ele foi criado como parte do desafio do curso "Torne-se um Programador" sobre Go Lang. O objetivo deste aplicativo é fornecer um sistema básico com funcionalidades de login e gestão de recursos.
 
+## Comunidade
+
+Este projeto é uma iniciativa da comunidade "Torne-se um Programador". Junte-se a nós para aprender e colaborar em mais projetos emocionantes. Visite [torneseumprogramador.com.br](https://www.torneseumprogramador.com.br) para mais informações e confira o curso [Desafio Go Lang](https://www.torneseumprogramador.com.br/cursos/desafio_go_lang).
+
 ## Estrutura do Projeto
 O projeto está estruturado da seguinte forma:
 
@@ -66,9 +70,6 @@ A documentação do projeto pode ser encontrada na pasta `docs`, incluindo as es
 
 Sinta-se à vontade para contribuir com este projeto. Se encontrar algum problema ou tiver sugestões, por favor, abra uma *issue* ou envie um *pull request*.
 
-## Comunidade
-
-Este projeto é uma iniciativa da comunidade "Torne-se um Programador". Junte-se a nós para aprender e colaborar em mais projetos emocionantes. Visite [torneseumprogramador.com.br](https://www.torneseumprogramador.com.br) para mais informações e confira o curso [Desafio Go Lang](https://www.torneseumprogramador.com.br/cursos/desafio_go_lang).
 
 ## Licença
 
